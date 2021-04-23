@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+* Arcaea
+  * _Tempestissimo **Beyond 11**_
+* maimaidx splash
+  * _PANDORA PARADOXXX **Re:Master 15**_
